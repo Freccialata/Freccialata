@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Freccialata, Gianluca Rubino
-- 👀 I’m interested in Creative Coding, Web infrastructure, Linux and pipeline optimization for creative studios
-- 🌱 I’m currently learning Creative Coding for visual and sound art
-- 💞️ I’m currently working on a true random number generator infrastructure
+- 👀 I am an art generalist with experience in interactive installations, generative design, computer programming, video editing, 2D and 3D graphics.
+- 🌱 I have a passion for computer graphics, sound and filmmaking.
 - 📫 Find more about me <a href="https://freccialata.github.io/" target="_blank">here</a>!
